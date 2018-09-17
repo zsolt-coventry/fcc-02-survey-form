@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Lato');
+
+html {
+  background-color: #F5F5F6;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Roboto Mono",monospace;
+  font-size: 3em;
+  color: #212121;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.text-primary {
+  color: #428e92;
+}
+
+.text-secondary {
+  color: #00363a;
+}
+
+.fa-left {
+  margin-right: 15px;
+}
